@@ -23,7 +23,7 @@ Visual components and Python
 DEVELOPED BY : RITHISH V
 
 REGISTER NO : 212223240140
-
+```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
 ser_time2=float(input("Enter the mean  inter service time of Lathe Machine 2 (in secs) :  "))
@@ -61,9 +61,12 @@ if (lam <  mu1) and (lam <  mu2) and (lam <  mu3):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
+```
 
 ## Output
-![image](https://github.com/Rithishv/Open-Jacson-Networks/assets/153974959/c7d0cd97-6165-44cf-8fc6-fc7800410910)
+![image](https://github.com/Rithishv/Open-Jacson-Networks/assets/153974959/3af9659f-e932-4dcb-bc43-415e15424a96)
+![image](https://github.com/Rithishv/Open-Jacson-Networks/assets/153974959/f1b58fb7-c1c8-48ce-86f5-9a85503f2004)
+
 
 ## Result
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
